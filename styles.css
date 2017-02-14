@@ -1,0 +1,19 @@
+table, td, th {
+    border: 4px solid gray;
+    Border-collapse: collapse;
+    /*margin: auto auto;*/
+    }
+    
+h1 {
+    color: red;
+}
+
+body {
+    text-align: center;
+}
+
+#wrap { 
+	width: 550px; 
+	margin: 0 auto; 
+	overflow: auto;
+}
