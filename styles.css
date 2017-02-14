@@ -1,15 +1,15 @@
 table, td, th {
-    border: 4px solid gray;
+    border: 4px solid Lime;
     Border-collapse: collapse;
     /*margin: auto auto;*/
     }
     
 h1 {
-    color: red;
+    color: Lime;
 }
 
 body {
-    text-align: center;
+    text-align: center
 }
 
 #wrap { 
