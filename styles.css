@@ -1,15 +1,17 @@
 table, td, th {
-    border: 4px solid Lime;
+    border: 4px solid;
     Border-collapse: collapse;
     /*margin: auto auto;*/
     }
     
 h1 {
-    color: Lime;
+    font-family: monospace;
 }
 
 body {
-    text-align: center
+    text-align: center;
+    background-image: url("universe.jpg");
+    color: chartreuse;
 }
 
 #wrap { 
