@@ -14,6 +14,10 @@ body {
     color: chartreuse;
 }
 
+a:visited {
+    color: DeepPink;
+}
+
 #wrap { 
 	width: 550px; 
 	margin: 0 auto; 
