@@ -8,6 +8,8 @@ th {
     text-transform: uppercase;
     font-size: x-large;
     font-weight: bold;
+    vertical-align: middle;
+    padding: 15px;
 }
   
 tr:nth-child(even) {
