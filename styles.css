@@ -1,8 +1,22 @@
 table, td, th {
-    border: 4px solid;
+    border: 3px solid;
     Border-collapse: collapse;
     /*margin: auto auto;*/
     }
+    
+th {
+    text-transform: uppercase;
+    font-size: x-large;
+    font-weight: bold;
+}
+  
+tr:nth-child(even) {
+    opacity: 0.6;
+}
+
+td:hover {
+    background-color: black;
+}
     
 h1 {
     font-family: monospace;
