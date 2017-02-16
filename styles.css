@@ -1,7 +1,6 @@
 table, td, th {
     border: 3px solid;
     Border-collapse: collapse;
-    /*margin: auto auto;*/
     }
     
 th {
@@ -11,7 +10,7 @@ th {
     vertical-align: middle;
     padding: 15px;
 }
-  
+
 tr:nth-child(even) {
     opacity: 0.6;
 }
@@ -37,6 +36,7 @@ a:visited {
 p:first-of-type {
     color: yellow;
 }
+
 #wrap { 
 	width: 550px; 
 	margin: 0 auto; 
